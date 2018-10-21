@@ -1,0 +1,122 @@
+body {
+font-family: Sans-Serif;
+font-size: 10pt;
+}
+
+table {
+width: 710px;
+border-collapse: collapse;
+border: 1px solid #000;
+font-size: 10pt;
+}
+
+caption {
+background-color: #000;
+color: #FFF;
+padding-top: 2px;
+padding-bottom: 2px;
+font-weight: bold;
+}
+
+td {
+padding-right: 1px;
+padding-left: 1px;
+font-size: 10pt;
+}
+
+#hlavniram {
+width: 720px; 
+border: 0px;
+padding: 0px;
+margin: 0px auto;
+border-spacing: 0px;
+}
+
+.svetly {
+background-color: FAFAFA;
+}
+
+.tmavy {
+background-color: F1F1F1;
+}
+
+.doprostred {
+text-align: center;
+}
+
+.problem {
+color: #FFF;
+margin: 0px auto;
+padding: 5px;
+background: #F00;
+}
+
+.pozor {
+color: #F00;
+font-weight: bold;
+}
+
+.pozor_na_stred {
+color: #F00;
+font-weight: bold;
+text-align: center;
+}
+
+.gmnu {
+width: 20%;
+border: 0px;
+}
+
+.gmnupolozka {
+width: 100%;
+text-decoration: none;
+font-weight: bold;
+text-align: center;
+border-right: 1px solid #FFF;
+display: block;
+background-color: #000;
+color: #FFF;
+}
+
+.gmnupolozkaaktiv {
+width: 100%;
+text-decoration: none;
+font-weight: bold;
+text-align: center;
+border-right: 1px solid #FFF;
+display: block;
+background-color: #FFF;
+color: #000;
+}
+
+.gmnupolozka:hover, .gmnupolozkaaktiv:hover {
+background-color: #F1F1F1;
+color: #000;
+}
+
+.popisekgrafu {
+font-size: 10pt;
+}
+
+.doprava {
+text-align: right;
+}
+
+.krajniprava {
+padding-right: 5px;
+text-align: right;
+}
+
+.krajnileva {
+padding-left: 5px;
+text-align: left;
+}
+
+.paticka {
+font-size: 9pt;
+text-align: center;
+}
+
+td.paticka {
+text-align: center;
+}
